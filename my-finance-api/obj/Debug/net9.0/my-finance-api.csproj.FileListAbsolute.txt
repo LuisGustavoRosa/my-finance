@@ -138,3 +138,6 @@ C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-api\bin\Debug\net9.0\zh-
 C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-api\bin\Debug\net9.0\my-finance-application.dll
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-api\bin\Debug\net9.0\my-finance-application.pdb
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-api\obj\Debug\net9.0\my-finance-api.sourcelink.json

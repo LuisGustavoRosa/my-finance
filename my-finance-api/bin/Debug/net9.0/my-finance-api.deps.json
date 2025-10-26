@@ -14,6 +14,7 @@
           "Swashbuckle.AspNetCore": "9.0.6",
           "Swashbuckle.AspNetCore.SwaggerGen": "9.0.6",
           "Swashbuckle.AspNetCore.SwaggerUI": "9.0.6",
+          "my-finance-application": "1.0.0",
           "my-finance-infra": "1.0.0"
         },
         "runtime": {
@@ -695,6 +696,18 @@
         }
       },
       "System.Threading.Channels/7.0.0": {},
+      "my-finance-application/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.10",
+          "my-finance-domain": "1.0.0"
+        },
+        "runtime": {
+          "my-finance-application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "my-finance-domain/1.0.0": {
         "runtime": {
           "my-finance-domain.dll": {
@@ -1076,6 +1089,11 @@
       "sha512": "sha512-qmeeYNROMsONF6ndEZcIQ+VxR4Q/TX/7uIVLJqtwIWL7dDWeh0l1UIqgo4wYyjG//5lUNhwkLDSFl+pAWO6oiA==",
       "path": "system.threading.channels/7.0.0",
       "hashPath": "system.threading.channels.7.0.0.nupkg.sha512"
+    },
+    "my-finance-application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "my-finance-domain/1.0.0": {
       "type": "project",

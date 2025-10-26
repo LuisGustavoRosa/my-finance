@@ -9,3 +9,4 @@ C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-domain\obj\Debug\net9.0\
 C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-domain\obj\Debug\net9.0\refint\my-finance-domain.dll
 C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-domain\obj\Debug\net9.0\my-finance-domain.pdb
 C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-domain\obj\Debug\net9.0\ref\my-finance-domain.dll
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-domain\obj\Debug\net9.0\my-finance-domain.sourcelink.json
