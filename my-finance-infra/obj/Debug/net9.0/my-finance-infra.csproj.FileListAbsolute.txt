@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-infra\bin\Debug\net9.0\my-finance-infra.deps.json
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-infra\bin\Debug\net9.0\my-finance-infra.dll
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-infra\bin\Debug\net9.0\my-finance-infra.pdb
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-infra\bin\Debug\net9.0\my-finance-domain.dll
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-infra\bin\Debug\net9.0\my-finance-domain.pdb
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-infra\obj\Debug\net9.0\my-finance-infra.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-infra\obj\Debug\net9.0\my-finance-infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-infra\obj\Debug\net9.0\my-finance-infra.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-infra\obj\Debug\net9.0\my-finance-infra.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-infra\obj\Debug\net9.0\my-finance-infra.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-infra\obj\Debug\net9.0\my-finan.95EE55BE.Up2Date
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-infra\obj\Debug\net9.0\my-finance-infra.dll
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-infra\obj\Debug\net9.0\refint\my-finance-infra.dll
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-infra\obj\Debug\net9.0\my-finance-infra.pdb
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-infra\obj\Debug\net9.0\ref\my-finance-infra.dll

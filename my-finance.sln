@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "my-finance-api", "my-finance-api\my-finance-api.csproj", "{770364F2-4AA4-4D25-BE4B-71F07586EE6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "my-finance-domain", "my-finance-domain\my-finance-domain.csproj", "{E7E6CC6A-208D-4E5B-BF12-29F2EA8CF267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "my-finance-infra", "my-finance-infra\my-finance-infra.csproj", "{E87B1BA7-D3E2-4FD6-A1E9-BB89457A4B70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{770364F2-4AA4-4D25-BE4B-71F07586EE6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770364F2-4AA4-4D25-BE4B-71F07586EE6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770364F2-4AA4-4D25-BE4B-71F07586EE6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770364F2-4AA4-4D25-BE4B-71F07586EE6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7E6CC6A-208D-4E5B-BF12-29F2EA8CF267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7E6CC6A-208D-4E5B-BF12-29F2EA8CF267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7E6CC6A-208D-4E5B-BF12-29F2EA8CF267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7E6CC6A-208D-4E5B-BF12-29F2EA8CF267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E87B1BA7-D3E2-4FD6-A1E9-BB89457A4B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E87B1BA7-D3E2-4FD6-A1E9-BB89457A4B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E87B1BA7-D3E2-4FD6-A1E9-BB89457A4B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E87B1BA7-D3E2-4FD6-A1E9-BB89457A4B70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-domain\bin\Debug\net9.0\my-finance-domain.deps.json
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-domain\bin\Debug\net9.0\my-finance-domain.dll
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-domain\bin\Debug\net9.0\my-finance-domain.pdb
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-domain\obj\Debug\net9.0\my-finance-domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-domain\obj\Debug\net9.0\my-finance-domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-domain\obj\Debug\net9.0\my-finance-domain.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-domain\obj\Debug\net9.0\my-finance-domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-domain\obj\Debug\net9.0\my-finance-domain.dll
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-domain\obj\Debug\net9.0\refint\my-finance-domain.dll
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-domain\obj\Debug\net9.0\my-finance-domain.pdb
+C:\Users\Usuario\Documents\GitHub\my-finance\my-finance-domain\obj\Debug\net9.0\ref\my-finance-domain.dll
