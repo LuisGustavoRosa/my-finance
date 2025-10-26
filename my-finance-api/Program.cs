@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
+using my_finance_application;
+using my_finance_infra;
 using my_finance_infra.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -24,6 +26,10 @@ builder.Services.AddSwaggerGen(options =>
         Description = "Personal finance management API 💰",
     });
 });
+builder.Services.AddApplication();
+
+// Infrastructure (DbContext, repos, integrações)
+builder.Services.AddInfrastructure(builder.Configuration);
 
 var app = builder.Build();
 

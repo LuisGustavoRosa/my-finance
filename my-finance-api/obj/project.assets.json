@@ -1055,6 +1055,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
+      "my-finance-application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.10",
+          "my-finance-domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/my-finance-application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/my-finance-application.dll": {}
+        }
+      },
       "my-finance-domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -3341,6 +3355,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "my-finance-application/1.0.0": {
+      "type": "project",
+      "path": "../my-finance-application/my-finance-application.csproj",
+      "msbuildProject": "../my-finance-application/my-finance-application.csproj"
+    },
     "my-finance-domain/1.0.0": {
       "type": "project",
       "path": "../my-finance-domain/my-finance-domain.csproj",
@@ -3360,6 +3379,7 @@
       "Swashbuckle.AspNetCore >= 9.0.6",
       "Swashbuckle.AspNetCore.SwaggerGen >= 9.0.6",
       "Swashbuckle.AspNetCore.SwaggerUI >= 9.0.6",
+      "my-finance-application >= 1.0.0",
       "my-finance-infra >= 1.0.0"
     ]
   },
@@ -3395,6 +3415,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "C:\\Users\\Usuario\\Documents\\GitHub\\my-finance\\my-finance-application\\my-finance-application.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\my-finance\\my-finance-application\\my-finance-application.csproj"
+            },
             "C:\\Users\\Usuario\\Documents\\GitHub\\my-finance\\my-finance-infra\\my-finance-infra.csproj": {
               "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\my-finance\\my-finance-infra\\my-finance-infra.csproj"
             }

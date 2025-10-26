@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "my-finance-domain", "my-fin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "my-finance-infra", "my-finance-infra\my-finance-infra.csproj", "{E87B1BA7-D3E2-4FD6-A1E9-BB89457A4B70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "my-finance-application", "my-finance-application\my-finance-application.csproj", "{900BBBE3-C400-422D-96D2-7D9BF123BF61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{E87B1BA7-D3E2-4FD6-A1E9-BB89457A4B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E87B1BA7-D3E2-4FD6-A1E9-BB89457A4B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E87B1BA7-D3E2-4FD6-A1E9-BB89457A4B70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{900BBBE3-C400-422D-96D2-7D9BF123BF61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900BBBE3-C400-422D-96D2-7D9BF123BF61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900BBBE3-C400-422D-96D2-7D9BF123BF61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900BBBE3-C400-422D-96D2-7D9BF123BF61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
